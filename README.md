@@ -21,7 +21,3 @@ Timer usando JS
 
 ![pause](https://user-images.githubusercontent.com/66692202/157794072-f1e550fe-5b13-4393-a366-94de5d113660.jpeg)
 
-
-## Teste Git Kraken
-
-Aqui estaremos adicionando texto ao nosso README para que possamos entender melhor a plataforma gráfica GitKraken
